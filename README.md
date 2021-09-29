@@ -1,7 +1,7 @@
 # Wandering
+# an android app , clone google map and provides user live location with POI marker
 
-![Screenshot_20210309-164103_GoogleMap](https://user-images.githubusercontent.com/72352873/110464831-7d3d2980-8088-11eb-9e24-42c0f27a8595.jpg)
+<img src="https://user-images.githubusercontent.com/72352873/135262794-b3b758b5-ddcb-41f7-8835-d97359e00a23.jpg"  width="300" height="500" >   <img src="https://user-images.githubusercontent.com/72352873/135262822-5f6c550d-ed5f-4cf7-bbfc-4b6b1eb60546.jpg"  width="300" height="500" >  <img src="https://user-images.githubusercontent.com/72352873/135262888-ae432532-46b1-4c4e-befb-105facbb2c4c.jpg"  width="300" height="500" > 
+   
 
-![Screenshot_20210309-164117_GoogleMap](https://user-images.githubusercontent.com/72352873/110465205-f9377180-8088-11eb-93c8-e21c32fd69f9.jpg)
-
-![Screenshot_20210309-165242_GoogleMap](https://user-images.githubusercontent.com/72352873/110465272-0f453200-8089-11eb-8bdc-391a729bcd6a.jpg)
+<img src="https://user-images.githubusercontent.com/72352873/135262906-ef67502f-844b-484e-ada5-3125ac19a6ce.jpg"  width="300" height="500" >   <img src="https://user-images.githubusercontent.com/72352873/135262933-7678f203-1b6f-483b-a191-0204dff2c91a.jpg"  width="300" height="500" > 
